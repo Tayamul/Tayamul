@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tayamul.
-- 👀 I’m interested in meeting like-minded people with hopes of growing network.
+- 👀 I’m interested in meeting like-minded people with hopes of growing my network.
 - 🌱 I’m currently learning the basic fundamentals with the aim of becoming a professional Software Developer.
-- 💞️ I’m looking to collaborate on ...
 - 📫 LinkedIn: https://www.linkedin.com/in/tayamul-rai/
 
 <!---
