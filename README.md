@@ -1,4 +1,4 @@
-<h2 align='center'>👋 Hi, I’m Tayamul. A passionate Front End React Developer based in London, UK 📍</h2>
+<h3 align='center'>👋 Hi, I’m Tayamul. A passionate Front End React Developer based in London, UK 📍</h3>
 <hr/>
 <p align='center'>As a recent coding bootcamp graduate, my expertise lies in crafting dynamic, engaging interfaces through writing clean and optimised code and utilising cutting-edge development tools and techniques. 🌱</p>
 <p align='center'>I’m eager to learn new coding languages and tackle challenging projects outside my comfort zone.</p>
