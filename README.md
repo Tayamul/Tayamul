@@ -1,8 +1,12 @@
 <h3 align='center'>👋 Hi, I’m Tayamul. A passionate Software Developer based in London, UK 📍</h3>
 <hr/>
-<p align='center'>As a recent coding bootcamp graduate, my expertise lies in crafting dynamic, engaging interfaces through writing clean and optimised code and utilising cutting-edge development tools and techniques. 🌱</p>
-<p align='center'>I’m eager to learn new coding languages and tackle challenging projects outside my comfort zone.</p>
-<p align='center'>I'm also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.</p>
+<p align='center'>My love for programming trigerred when I stumbled upon a Web Development course at UDEMY, through a friend.</p>
+<p align='center'>I got so obsessed with programming concept and its unlimited capabilities, I spent infinite hours educating myself.</p>
+<p align='center'>But I knew self-learning would not take me far in my tech journey.</p>
+<p align='center'>6 months later, I found an opportunity to enroll in a government funded bootcamp, so I left my retail job!</p>
+<p align='center'>I got exposed to JavaScript based frameworks like React, Node.js, Express, and SQL too</p>
+<p align='center'>Now, I am eager to jump-start my career in the tech field to apply my newly acquired skills.</p>
+<p align='center'>Still a learner by heart so I am cultivating my Next.js competencies to augment my value as an asset.</p>
 <hr/>
 
 ### **_Tech Stack_**
