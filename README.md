@@ -1,13 +1,13 @@
 <h3 align='center'>👋 Hi, I’m Tayamul. A passionate Software Developer based in London, UK 📍</h3>
 <hr/>
-<p align='center'>My love for programming trigerred when I stumbled upon a Zero to Mastery Web Development course, through a friend.</p>
-<p align='center'>I got so obsessed with programming concept and its unlimited capabilities, I spent infinite hours educating myself.</p>
+<p align='center'>My love for programming triggered when I stumbled upon a Zero to Mastery Web Development course, through a friend.</p>
+<p align='center'>I got so obsessed with programming concept and its unlimited capabilities, I invested infinite hours learning it.</p>
 <p align='center'>But I knew self-learning would not take me far in my tech journey.</p>
 <p align='center'>6 months later, I found an opportunity to enroll in a coding bootcamp, so I left my retail job!</p>
 <p align='center'>I got exposed to JavaScript based frameworks like React, Node.js, Express, and SQL.</p>
 <p align='center'>Throughout my training, I designed and developed various projects, both front and back end.</p>
-<p align='center'>Now, I am eager to jump-start my career in the tech field to apply my newly acquired skills.</p>
-<p align='center'>Still a learner by heart so I am cultivating my Next.js competencies to augment my value as an asset.</p>
+<p align='center'>Now I am eager to jump-start my career in the tech field to solve real-life problems through software.</p>
+<p align='center'>Still a learner by heart so I am currently expanding my knowlege of Next.js framework.</p>
 <hr/>
 
 ### **_Tech Stack_**
