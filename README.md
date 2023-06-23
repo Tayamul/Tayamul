@@ -8,6 +8,7 @@
 <p align='center'>Throughout my training, I designed and developed various projects, both front and back end.</p>
 <p align='center'>Now I am eager to jump-start my career in the tech field to solve real-life problems through software.</p>
 <p align='center'>Still a learner by heart so I am currently expanding my knowlege of Next.js framework.</p>
+<p align='center'>Lets connect on LinkedIn, send me a request!</p>
 <hr/>
 
 ### **_Tech Stack_**
