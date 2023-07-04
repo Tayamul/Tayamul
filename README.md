@@ -1,3 +1,9 @@
+# Tayamul Rai 👋
+`Full-stack developer based in London 📍`
+
+I'm a highly self-motivated developer with a passion for leveraging software solutions to create positive impact in people's lives. I have an immense love for building responsive and engaging user interfaces that are accessible to everyone. All coding projects are built from the ground up, from planning and designing all the way to developing and hosting.
+
+<!---
 <h3 align='center'>👋 Hi, I’m Tayamul. A passionate Software Developer based in London, UK 📍</h3>
 <hr/>
 <p align='center'>My love for programming triggered when I stumbled upon a Zero to Mastery Web Development course, through a friend.</p>
@@ -10,7 +16,7 @@
 <p align='center'>Still a learner by heart so I am currently expanding my knowlege of Next.js framework.</p>
 <p align='center'>Lets connect on LinkedIn, send me a request!</p>
 <hr/>
-
+--->
 ### **_Tech Stack_**
 
 ![JavaScript Logo](javascript-1.svg) 
@@ -24,6 +30,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/tayamul-rai "Tayamul's LinkedIn") |
 [Portfolio](https://tayamul-portfolio.vercel.app "Tayamul's Portfolio")
+
+<!--- ![Tayamul's Github stats](https://github-readme-stats.vercel.app/api?username=Tayamul&show_icons=true)  --->
 
 <!---
 Tayamul/Tayamul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
