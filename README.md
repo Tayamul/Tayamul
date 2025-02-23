@@ -1,22 +1,12 @@
 # Tayamul Rai 👋
-`Full-stack developer based in London 📍`
+`Software developer based in London 📍`
 
-I'm a highly self-motivated developer with a passion for leveraging software solutions to create positive impact in people's lives. I have an immense love for building responsive and engaging user interfaces that are accessible to everyone. All coding projects are built from the ground up, from planning and designing all the way to developing and hosting.
+An individual with a passion for leveraging software solutions to create positive impact in people's lives.
 
-<!---
-<h3 align='center'>👋 Hi, I’m Tayamul. A passionate Software Developer based in London, UK 📍</h3>
-<hr/>
-<p align='center'>My love for programming triggered when I stumbled upon a Zero to Mastery Web Development course, through a friend.</p>
-<p align='center'>I got so obsessed with programming concept and its unlimited capabilities, I invested infinite hours learning it.</p>
-<p align='center'>But I knew self-learning would not take me far in my tech journey.</p>
-<p align='center'>6 months later, I found an opportunity to enroll in a coding bootcamp, so I left my retail job!</p>
-<p align='center'>I got exposed to JavaScript based frameworks like React, Node.js, Express, and SQL.</p>
-<p align='center'>Throughout my training, I designed and developed various projects, both front and back end.</p>
-<p align='center'>Now I am eager to jump-start my career in the tech field to solve real-life problems through software.</p>
-<p align='center'>Still a learner by heart so I am currently expanding my knowlege of Next.js framework.</p>
-<p align='center'>Lets connect on LinkedIn, send me a request!</p>
-<hr/>
---->
+I have an immense love for building responsive and engaging user interfaces that are accessible to everyone.
+
+All coding projects are built from the ground up, from planning and designing all the way to developing and hosting.
+
 ### **_Tech Stack_**
 
 ![JavaScript Logo](javascript-1.svg) 
@@ -29,7 +19,7 @@ I'm a highly self-motivated developer with a passion for leveraging software sol
 
 
 [LinkedIn](https://www.linkedin.com/in/tayamul-rai "Tayamul's LinkedIn") |
-[Portfolio](https://tayamul-portfolio.vercel.app "Tayamul's Portfolio")
+[Portfolio](https://tayamulrai.com "Tayamul's Portfolio")
 
 <!--- ![Tayamul's Github stats](https://github-readme-stats.vercel.app/api?username=Tayamul&show_icons=true)  --->
 
